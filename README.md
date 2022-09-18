@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <td><a href="mailto:muhiddinuzan@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Outlook-110d7a?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
   </tr>
 </table>
