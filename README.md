@@ -1,9 +1,9 @@
 ### Muhidin Uzan 👋
 <table class="center">
-<td><a href="https://instagram.com/muhiddinuzan">
+<td><a href="https://instagram.com/muhiddinuzann">
 <img src="https://img.shields.io/badge/Instagram-b3411b?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-<td><a href="https://twitter.com/muhiddinuzan">
+<td><a href="https://twitter.com/muhiddinuzann">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
   <tr>
