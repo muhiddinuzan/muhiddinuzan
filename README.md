@@ -1,4 +1,4 @@
-### Muhidin Uzan 👋
+### Muhidin Uzan 🌐
 <table class="center">
 <td><a href="https://instagram.com/muhiddinuzann">
 <img src="https://img.shields.io/badge/Instagram-b3411b?style=for-the-badge&logo=instagram&logoColor=white">
